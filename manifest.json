@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Data Signal Spot",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "httpsspeedtest-test-pluslovableapp.lovable",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "lang": "en",
+  "description": "Shows mobile data signal strength using color indicators: green, yellow, red."
+}
